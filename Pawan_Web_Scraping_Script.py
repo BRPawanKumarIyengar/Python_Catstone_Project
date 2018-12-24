@@ -4,7 +4,6 @@ import lxml.html as Pawan_HTML_Reader
 import pandas as Pawan_Pandas_Module
 
 #We specify the URL Path
-#url = 'C:\\Users\\brpaw\\Desktop\\Hai_Daiyya.html' -->This Does not work
 url = 'https://en.wikipedia.org/wiki/List_of_postal_codes_of_Canada:_M'
 
 #Create a handle, Pawan_Web_Page, to handle the contents of the website
